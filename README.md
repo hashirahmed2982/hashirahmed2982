@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hashirahmed2982
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me email me.
 
